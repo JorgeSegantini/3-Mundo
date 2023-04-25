@@ -1,7 +1,7 @@
 #Tuplas
-lanche = burger
-lanche = suco #Elimina o burger 
-lanche = burger, suco, pizza, pudin #Variavel composta  
+lanche = 'burger'
+lanche = 'suco' #Elimina o burger 
+lanche = 'burger, suco, pizza, pudin' #Variavel composta  
 
 #1-Tuplas 2-Lista 3-Dicionario
 #Elementos são indicados por indice 0,1,2...
